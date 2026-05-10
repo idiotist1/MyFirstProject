@@ -2,9 +2,8 @@ using UnityEngine;
 
 public class One : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-
-    // Update is called once per frame
+    private float Attack;
+    
     void Update()
     {
         
