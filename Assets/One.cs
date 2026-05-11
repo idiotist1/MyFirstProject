@@ -6,6 +6,6 @@ public class One : MonoBehaviour
 
     void Update()
     {
-        
+        Debug.Log("Undo Commit!");
     }
 }
