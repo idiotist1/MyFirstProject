@@ -7,7 +7,7 @@ public class One : MonoBehaviour
 
     void Start()
     {
-        Debug.Log("�浹!");
+        Debug.Log("�浹!");
     }
 
     void Update()
