@@ -6,6 +6,6 @@ public class One : MonoBehaviour
 
     void Start()
     {
-        Debug.Log("Develop!");
+        Debug.Log("Develop!!");
     }
 }
